@@ -13,7 +13,7 @@ This will contain a tutorial on how to build your own frameset Web site, but in 
     - A- I believe this method should be documented in Github with many comments, and guides. Not to revive it, but for, ahem, historical documentation purposes.
 - **Q- Are you going to make this intentionally lame and/or funny?**
     - Nah. I think it can be lame on its own merits. But I want to use the best technology available in 1999 to complete this project.
-- **Q- Are you going to lay it out with tables and outdate tags?**
+- **Q- Are you going to lay it out with tables and outdated tags?**
     - Probably. I don't know if I will use tags like `<marquee>` or `<blink>`. Framesets are aceptable in some kind of HTML4 flavor, so I have to study what is legal and what isn't.
 - **Q- Are you going to use modern tools like current frameworks and task runners?**
     - Probably. As long as the final product remains within its original educational purpose.
