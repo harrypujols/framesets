@@ -17,6 +17,7 @@ This will contain a tutorial on how to build your own frameset Web site, but in 
     - Probably. I don't know if I will use tags like `<marquee>` or `<blink>`. Framesets are aceptable in some kind of HTML4 flavor, so I have to study what is legal and what isn't.
 - **Q- Are you going to use modern tools like current frameworks and task runners?**
     - Probably. As long as the final product remains within its original educational purpose.
+    - The only rule I got for this boilerplate is that it has to be compatible with all browsers available in late 1999.
 - **Q- Can I help?**
     - Sure. Fork it and let me see what you got.
     - One thing I will like to do is to collect infamous gifs from the late 90s. If you can help, you are welcome to join the fun.
