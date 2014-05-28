@@ -1,7 +1,7 @@
 The Frameset Boilerplate
 ========================
 
-*Because the 90s were frikkin' awesome!*
+*Because the 90s were frikkin' awesome!* :fax:
 
 ## FAQs
 
