@@ -3,6 +3,12 @@ The Frameset Boilerplate
 
 *Because the 90s were frikkin' awesome!* :fax:
 
+Yes, amigos, this is the boilerplate for a Website created using framesets, and archaic, terrible way of doing sites that was actually quite popular in the 90s, before css made its debut.
+
+My objective: preserve a 90s frameset site, using modern tools, but not detouring from the original purpose.
+
+Enjoy.
+
 ## FAQs
 
 - **Q- WTF, bro.**
