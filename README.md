@@ -1,5 +1,5 @@
-The Frameset Boilerplate
-========================
+[The Frameset Boilerplate](http://harrypujols.github.io/framesets)
+==========================
 
 *Because the 90s were frikkin' awesome!* :fax:
 
